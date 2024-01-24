@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598622044476",
+    "project_id": "bitirme-proje-1",
+    "storage_bucket": "bitirme-proje-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598622044476:android:64264c6b2a76b359ac1e39",
+        "android_client_info": {
+          "package_name": "com.example.flutter_google_maps_ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5k2drfSqYfLp09opMemfwG3fR1M1ZlGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
